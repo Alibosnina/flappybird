@@ -4,9 +4,9 @@ import { Bird } from '@/components/Bird';
 import { Pipe } from '@/components/Pipe';
 
 // Faster movement
-const GRAVITY = 0.3;
-const JUMP_FORCE = -10;    
-const FLAP_INCREMENT = -3; 
+const GRAVITY = 0.4;
+const JUMP_FORCE = -8;    
+const FLAP_INCREMENT = -2; 
 
 const PIPE_GAP = 150;
 
